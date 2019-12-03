@@ -1,0 +1,22 @@
+
+.wrap {
+    display: flex;
+    
+    justify-content: start;
+    flex-direction: column;
+}
+
+.input-group {
+    outline: 1px solid #26a69a;
+    max-width: 48%;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+.buttons{
+    margin-top: 1%;
+    margin-left: 1%;
+}
+h1{
+    font-size: 20px;
+}
